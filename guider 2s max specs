@@ -1,0 +1,22 @@
+guider 2s performance maximum
+
+
+max extruder temp 300 Celsius
+
+max platform temp 120 Celsius
+
+max print speed 200mm/s hardware cap 
+                150 software cap
+max travel speed 200mm/s
+                150 software cap
+max retraction length 20,0mm
+
+max retraction speed 100mm/s
+
+max extrude speed 100mm/s
+
+max extra restart length 10mm
+
+max flow rate 32mm^3/s
+
+sequential printing report yes 
